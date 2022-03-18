@@ -1,5 +1,5 @@
 # somplay.github.io
 
-Welcome!
+<h1>Welcome!</h1>
 
-This is a repository for open source content from Somplay!
+<p>This is a repository for open source content from Somplay!</p>
